@@ -10,3 +10,5 @@ Useful Libraries
 [Numba](http://numba.pydata.org/)
 
 [NumPy](http://numpy.org/)
+
+[pygsheets](https://pygsheets.readthedocs.io/en/stable/)
